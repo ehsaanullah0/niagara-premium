@@ -1,5 +1,5 @@
 # EHSAAN ULLAH
-# 🧿 Niagara Launcher — Unofficial Under Development Build
+# 🧿 Niagara Unofficial Release~
 
 <p align="center">
 <img width="220" height="220" alt="app" src="https://github.com/user-attachments/assets/615e2b43-e6fb-4610-8fd3-890aab04e94d" />
