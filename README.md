@@ -1,5 +1,5 @@
 # EHSAAN ULLAH
-# 🧿 Niagara Launcher — Unofficial Modified Build
+# 🧿 Niagara Launcher — Unofficial Under Development Build
 
 <p align="center">
 <img width="220" height="220" alt="app" src="https://github.com/user-attachments/assets/615e2b43-e6fb-4610-8fd3-890aab04e94d" />
@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </d>
-<a href="https://github.com/worsmon-org/cracked-niagara-by-EHSAAN-ULLAH/releases/download/latest/Niagara.Launcher.-.v1.16.15.apk">
-  <img src="https://img.shields.io/badge/Release-Modified%20APK-c9b58a?style=for-the-badge" />
+  <a href="https://github.com/ehsaanullah0/niagara-premium/releases/tag/v.10.21">
+  <img src="https://img.shields.io/badge/Release-Niagara.pro-c9b58a?style=for-the-badge" />
 </a>
 </div>
 
@@ -26,20 +26,20 @@
 
 ## 🌿 About
 
-This repository contains an **unofficial modified build** of Niagara Launcher.
+This repository contains an **unofficial build** of Niagara Launcher.
 
 The project is intended for **personal research, experimentation, and educational purposes**.
 
-> ⚠️ **Disclaimer:** This project is not affiliated with, endorsed by, or sponsored by Niagara Launcher or its developers.
+> ⚠️ **Disclaimer:** This project is not affiliated with, endorsed by, or sponsored by Niagara Launcher or its developers Please support the original developers of niagara and appreciate their efforts...
 
 ---
 
 # DOWNLOAD FROM HERE~
 
-<a href="https://github.com/worsmon-org/cracked-niagara-by-EHSAAN-ULLAH/releases/download/latest/Niagara.Launcher.-.v1.16.15.apk">
-  <img src="https://img.shields.io/badge/Release-Modified%20APK-c9b58a?style=for-the-badge" />
+  <a href="https://github.com/ehsaanullah0/niagara-premium/releases/tag/v.10.21">
+  <img src="https://img.shields.io/badge/Release-Niagara.pro-c9b58a?style=for-the-badge" />
 </a>
-
+  
 ---
 
 ## ✨ Highlights
@@ -151,8 +151,8 @@ Respect the work that goes into creating and maintaining the original applicatio
 <img width="100" src="https://github.com/user-attachments/assets/50e3e4dd-51dd-4ba3-9522-f787a60585a1" />
 
 <p align="center">
-<a href="https://github.com/worsmon-org/cracked-niagara-by-EHSAAN-ULLAH/releases/download/latest/Niagara.Launcher.-.v1.16.15.apk">
-  <img src="https://img.shields.io/badge/Release-Modified%20APK-c9b58a?style=for-the-badge" /
+  <a href="https://github.com/ehsaanullah0/niagara-premium/releases/tag/v.10.21">
+  <img src="https://img.shields.io/badge/Release-Niagara.pro-c9b58a?style=for-the-badge" />
 </a>
 
 <p align="center">
