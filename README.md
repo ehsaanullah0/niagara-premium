@@ -70,7 +70,7 @@ The project is intended for **personal research, experimentation, and educationa
       <img width="100%" src="https://github.com/user-attachments/assets/cdea9d18-5168-4fd5-983b-ef913ddba30e" />
     </td>
     <td align="center" width="50%">
-      <img width="100%" src="https://github.com/user-attachments/assets/eeada4d6-21c5-4d60-a186-9b3a04c058f4" />
+      <img width="100%"  src="https://github.com/user-attachments/assets/df3afe83-a212-45d9-8395-3fc5e9eddc30" />
     </td>
   </tr>
 
